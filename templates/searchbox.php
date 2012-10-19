@@ -1,0 +1,1 @@
+../../dirindex-fugue/templates/searchbox.php
